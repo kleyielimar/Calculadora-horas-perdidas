@@ -1,7 +1,7 @@
 const CONFIG = {
   diagnosticUrl: "https://info.kleyielimar.com/diagnostico-empresarial",
-  supabaseUrl: "",
-  supabaseAnonKey: "",
+  supabaseUrl: "https://nrbrgovhgrrrwhnavszp.supabase.co",
+  supabaseAnonKey: "sb_publishable_bJ_RuYKg4XgORYJXZ3klFA_zLs1BZx9",
   supabaseTable: "calculadora_horas_leads",
 };
 
